@@ -1,0 +1,10 @@
+{
+  "routes": [
+    { "src": "/", "dest": "/api/index.js" }
+  ]
+}
+{
+  "routes": [
+    { "src": "/", "dest": "/api/index.js" }
+  ]
+}
